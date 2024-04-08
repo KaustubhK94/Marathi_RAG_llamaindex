@@ -6,7 +6,7 @@ And Cohere's ***"embed-multilingual-v3.0"***.
 Huggingface Model Card [Click Here](https://huggingface.co/Telugu-LLM-Labs/Indic-gemma-2b-finetuned-sft-Navarasa-2.0)
 
 - Ensure that Tesseract is Installed correctly.
-- along with Marathi train data [Click Here](https://tesseract-ocr.github.io/tessdoc/Data-Files) copied to `C:\Program Files\Tesseract-OCR\tessdata`
+- along with Marathi train data [Click Here to Download](https://tesseract-ocr.github.io/tessdoc/Data-Files) copied to `C:\Program Files\Tesseract-OCR\tessdata`
 - Create a Virtual Environment.
 - Clone the Repository.
 - `pip install -r requirements.txt`
