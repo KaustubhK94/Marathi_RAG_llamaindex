@@ -16,6 +16,7 @@ Huggingface Model Card [Click Here](https://huggingface.co/Telugu-LLM-Labs/Indic
 - you need to save these API KEYS and Endpoint in a separate '.env' file.
 - Ensure that you've downloaded the weights of the huggingface model try running ***marathi_rag_app.py*** first locally.
 - once properly set open the terminal on your IDE and run `streamlit run Maarathi_RAG_UI.py`.
+- Copy and Paste the Google Drive link of the PDF you want to query over and hit the submit button. 
 - Results of the Queries During trials are shown in the screenshot below!
 - ![Results of the Queries.](https://github.com/KaustubhK94/Marathi_RAG_llamaindex/assets/91604508/a724e8bd-efaf-409b-9236-0f140dec3702)
 
