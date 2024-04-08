@@ -1,8 +1,9 @@
 **Marathi RAG Application**
-Ask questions over A PDF that too in Marathi.
--
+Query your PDFs in Marathi.
 using opensource Huggingface model ***"Telugu-LLM-Labs/Indic-gemma-2b-finetuned-sft-Navarasa-2.0"***
 And Cohere's ***"embed-multilingual-v3.0"***
+- Ensure that Tesseract is Installed correctly.
+- along with (Here)[https://tesseract-ocr.github.io/tessdoc/Data-Files.html] Marathi train data copied to `C:\Program Files\Tesseract-OCR\tessdata`
 - Create a Virtual Environment.
 - Clone the Repository.
 - `pip install -r requirements.txt`
