@@ -10,7 +10,7 @@ Huggingface Model Card [Click Here](https://huggingface.co/Telugu-LLM-Labs/Indic
 - Create a Virtual Environment.
 - Clone the Repository.
 - `pip install -r requirements.txt`
-- you'll need API keys for Cohere (Embedding Model) and Vector database Datastax'astra DB along with its API endpoint.
+- you'll need API keys for Cohere (Embedding Model) and Vector database Datastax's astra DB along with its API endpoint.
   - [click here](https://dashboard.cohere.com/api-keys) for Cohere API Key.
   - [click here](https://astra.datastax.com/org/5cbd84bf-4cde-4e36-87dd-8302ee7d8eca/database) For creating your Vector DB.
 - you need to save these API KEYS and Endpoint in a separate '.env' file.
